@@ -39,3 +39,11 @@ public class GalToLit {
 ```
 ## Experience
 No experience in Web Development yet
+## Education
+* Belarusian State Agrarian Technical University (BSATU) 1995-1999 years
+* JavaRush (unti now)
+## Languages
+* English (Pre-Intermediate)
+* Russian (Native)
+* Belarusian (Intermediate)
+* Ukrainian (Intermediate)
