@@ -1,1 +1,102 @@
-padding: 0 0 10px 0;
+.rsschool {
+  font-size: 30px;
+  color: rgb(0, 81, 255);
+  margin: 0;
+  text-decoration: none;
+  padding: 20px;
+  font-family: Verdana, sans-serif;
+}
+
+.photo {
+  margin: 20px;
+}
+
+.yurlov {
+  margin-left: 20px;
+}
+
+.nav-list {
+  justify-content: flex-end;
+  align-items: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.nav-list {
+  list-style: none;
+  font-size: 20px;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 30px;
+}
+
+.nav-link {
+  transition: 0.3s;
+}
+
+.section-item a {
+  color: #f5edd0;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+.section-item a:hover {
+  color: #4d2323;
+}
+
+// прижимаем футор книзу
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  width: 970px;
+  background-color: #fff;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.content {
+  flex: 1 0 auto;
+}
+
+footer {
+  background-color: rgb(222, 222, 222);
+  height: 66px;
+
+}
+
+.footer-github {
+  float: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.footer-date {
+  padding: 20px 370px 0px 0px;
+  float: right;
+  font-size: 28px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.footer-logo {
+  float: left;
+  padding-bottom: 30px;
+  height: 55px;
+}
