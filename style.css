@@ -56,6 +56,7 @@ html {
 
 html,
 body {
+  margin: auto;
   height: 100%;
   width: 970px;
   background-color: #fff;
